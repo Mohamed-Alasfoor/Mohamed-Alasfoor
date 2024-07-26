@@ -10,13 +10,13 @@
 
 <div align="center">
  
- </> I'm currently on the path to a full-stack developer at Reboot01**
+ </> I'm currently on the path to a full-stack developer at **Reboot01**
  
- 🧑🏻‍💻 studying towards a B.Sc. in Information Systems at UOB**
+ 🧑🏻‍💻 studying towards a B.Sc. in Information Systems at **UOB**
 
-💀 Only I can define my limits.**
+💀 **Only I can define my limits**
 
-☕︎  Fun fact **Coffee is my petrol**
+☕︎  Fun fact: **Coffee is my petrol**
 
  </div>
 
@@ -32,4 +32,14 @@
   </a>
 </div>
 
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=go,cs,java,php,js,py,c,html.css" />
+    <img src="https://skillicons.dev/icons?i=mysql,aws,figma,arduino,wordpress,vscode,visualstudio,idea,github,linux"/><br>
+</div>
+
+<br/>
 <hr/>
