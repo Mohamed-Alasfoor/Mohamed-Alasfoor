@@ -15,7 +15,7 @@
 
 💀 **Only I can define my limits**
 
-☕︎  Fun fact: **Coffee is my petrol**
+☕︎ **Coffee is my petrol**
 
  </div>
 
