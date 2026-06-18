@@ -9,9 +9,9 @@
 
 <div align="center">
  
- </> I'm currently on the path to a full-stack developer at **Reboot01**
+ </> full-stack developer at **Reboot01**
  
- 🧑🏻‍💻 studying towards a B.Sc. in Information Systems at **UOB**
+ 🧑🏻‍💻B.Sc. in Information Systems at **UOB**
 
 💀 **Only I can define my limits**
 
